@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "destinationName": "CalendarShare – Combined",
+  "horizon": {
+    "pastDays": 60,
+    "futureMonths": 18
+  },
+  "sources": {
+    "SOURCE_CALENDAR_ID": {
+      "policy": "FULL",
+      "copyDescription": true,
+      "copyLocation": true,
+      "allowPrivateDetails": false
+    }
+  }
+}
