@@ -21,6 +21,6 @@
     "@types/google-apps-script": "^2.0.12",
     "esbuild": "^0.28.2",
     "typescript": "^7.0.2",
-    "vitest": "^4.1.11"
+    "vitest": "^5.0.2"
   }
 }
